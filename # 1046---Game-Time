@@ -1,4 +1,5 @@
 # 1046---Game-Time
+
 #include <stdio.h>
 int main(){
     int start_time,end_time,duration;
